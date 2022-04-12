@@ -1,0 +1,6 @@
+{
+    "serverPort" : 5000,
+    "dbUrl" : "mongodb+srv://ivan:1234567Zxcv@cloud.tk4sy.mongodb.net/cloud?retryWrites=true&w=majority",
+    "secretKey": "mern-secket-key",
+    "filePath": "D:\\cloud-disk\\server\\files"
+}
